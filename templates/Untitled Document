@@ -1,0 +1,21 @@
+<html>
+
+
+
+<body>
+<h1>{{ title }} is working</h1>
+
+<br>
+<br>
+<hr color="red">
+
+
+
+{{ instance.title }}<br/>
+{{ instance.content }}<br/>
+{{ instance.timestamp }}<br/>
+{{ instance.updated }}<br/>
+{{ instance.id }}<br/>
+
+</body>
+</html>
